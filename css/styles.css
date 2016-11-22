@@ -1,0 +1,43 @@
+body{
+ background: #ddd;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100%;
+}
+
+audio{
+    /*display: none;*/
+}
+
+.box{
+  background: white;
+  margin: auto;
+  margin-top: 20px;
+  padding: 30px;
+  width: 250px;
+  height: 100px;
+  text-align: center;
+  border: 1px solid none;
+}
+.box.opacity{
+    opacity: .5;
+}
+
+.box-1{
+  cursor: pointer;
+}
+
+.box-2{
+  cursor: pointer;
+  display: none;
+}
+
+.box-3{
+  cursor: pointer;
+  display: none;
+}
+
+.box-4{
+  cursor: pointer;
+  display: none;
+}
